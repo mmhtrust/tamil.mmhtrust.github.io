@@ -1,2 +1,3 @@
-# mcptrust.github.io
-Madras Center for Psychotherapy Website
+# mmht.github.io
+
+Madras Mental Health Trust Website
