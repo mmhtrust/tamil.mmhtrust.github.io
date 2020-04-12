@@ -24,7 +24,7 @@ visit us](contact.html) during the registration hours.
 The enrolment will involve the following steps:
 
 <div align="center">
-<img src="public/enrollment.png" width="75%">
+<img src="public/enrollment.png">
 </div>
 
 Charges are applied depending on the outcome of the socio-demographic
