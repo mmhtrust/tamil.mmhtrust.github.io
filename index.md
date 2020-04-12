@@ -32,3 +32,11 @@ of the State and the society to make such care available.
 * **Dr S P Sivakami**, DPM., MRCPsych (UK) -- Consultant Psychiatrist and Accredited
   Cognitive Analytic Therapy (CAT) practitioner.
 * **Dr T R Suresh**, MD -- Consultant Psychiatrist
+
+## Trustees
+
+* Founder and Managing Trustee -- Dr S P Sivakami
+* Dr Janani Sankar, Consultant Psychiatrist
+* [Mr Ramnath Chandrasekar](https://www.ramnathshekar.com/), Conservation Educator and Filmmaker
+* Dr T P Subhalakshmi, Consultant Psychiatrist
+* Ms Srividhya Srinivasan, Architect

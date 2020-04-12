@@ -21,6 +21,8 @@ title: Service Information
 If you wish to avail the services at Madras Mental Health Trust, please [call or
 visit us](contact.html) during the registration hours.
 
+The enrolment will involve the following steps:
+
 <div align="center">
 <img src="public/enrollment.png" width="75%">
 </div>
@@ -29,7 +31,7 @@ Charges are applied depending on the outcome of the socio-demographic
 assessment. Hospitalisation charges will be supported on a case by case basis.
 All the charges below are in Rupees.
 
-| Service | Category 1 | Category 2 | Category 3 |
+| Service | Category&nbsp;1 | Category&nbsp;2 | Category&nbsp;3 |
 |---------|------------|------------|------------|
 | First Assessment | Free | 100 | 400 |
 | Review | Free | 50 | 200 |
