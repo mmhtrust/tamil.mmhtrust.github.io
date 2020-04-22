@@ -1,43 +1,29 @@
 ---
 layout: page
-title: Service Information
+title: சேவைத் தகவல்கள் 
 ---
 
-### Registration Hours
+### பதிவு நேரம் 
 
-9 AM to 12 PM, Monday to Saturday
+காலை 9 மணி முதல் நண்பகல் 12 மணி வரை, திங்கள் முதல் சனி வரை
 
-### Clinic Hours
+### மருத்துவ நிலையப் பணிநேரம் 
 
-10 AM to 1 PM and 3 PM to 5 PM, Monday to Saturday.
+காலை 10 மணி முதல் பிற்பகல் 1 மணி வரை, திங்கள் முதல் சனி வரை
 
-### 24x7 Emergency Services
+### 24 X 7 அவசரநிலைச் சேவைகள் 
 
-* 9 AM to 5 PM -- +91 44 2483 2121, +91 44 2483 0303
-* Other hours -- +91 99403 54935
+* காலை 9 மணி முதல் மாலை 5 மணி வரை -- +91 44 2483 2121, +91 44 2483 0303
+* மற்ற நேரங்களில் -- +91 99403 54935
 
-## Availing our services
+## சேவைகளைப் பெறும் முறை 
 
-If you wish to avail the services at Madras Mental Health Trust, please [call or
-visit us](contact.html) during the registration hours.
+சென்னை மனநல அறக்கட்டளையின் சேவைகளை நீங்கள் பெற விரும்பினால் பதிவு நேரத்தில் [தொலைபேசியில் அழைக்கவும் அல்லது நேரில் வரவும்](contact.html).
 
-The enrolment will involve the following steps:
+சேவைப்பதிவு செய்து கொள்ள பின்வருமாறு செய்ய வேண்டும்:
 
 <div align="center">
 <img src="public/enrollment.png">
 </div>
 
-Charges are applied depending on the outcome of the socio-demographic
-assessment. Hospitalisation charges will be supported on a case by case basis.
-All the charges below are in Rupees.
-
-| Service | Category&nbsp;1 | Category&nbsp;2 | Category&nbsp;3 |
-|---------|------------|------------|------------|
-| First Assessment | Free | 100 | 400 |
-| Review | Free | 50 | 200 |
-| Review (once every 3 months) | Free | 100 | 400 |
-| Medication | Free | 40% of purchase price (not MRP) | Purchase price (not MRP) |
-| Electroconvulsive Therapy (ECT) | Free | 500 | 2000 |
-| Psychotherapy Assessment | Free | 100 | 400 |
-| Psychotherapy Session | Free | 100 | 300 |
-| Home Visit | Free | 200 | 600 |
+தன்விவரம், சமூகப் படிநிலை ஆகியவற்றின் மதிப்பீட்டைப் பொறுத்துக்  கட்டணங்கள் விதிக்கப்படும். அந்தந்த நபரைப் பொறுத்து மருத்துவமனை உட்சேர்க்கைக் கட்டணங்கள் உதவி பெறும்.
