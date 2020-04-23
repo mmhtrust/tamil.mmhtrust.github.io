@@ -3,7 +3,7 @@ layout: default
 title: MMHT
 ---
 
-<img src="public/mmht-logo.png" alt="mmht-logo" style="width: 180px; float: right; padding=0px"/>
+<img src="public/mmht-logo.png" alt="mmht-logo" style="max-width: 40%; width: 180px; float: right; padding=0px"/>
 
 மெட்ராஸ் மனநல அறக்கட்டளை தமிழ்நாட்டில் சென்னையைத் தலைமையிடமாகக் கொண்டு மனநலப் பேணலும்குடி,
 போதைப்பொருள் வயமை நீக்கமும் உளவியல்வழிப்பண்டுவச் சேவையும் வழங்கிவரும் மனநல மையமாகும்.
